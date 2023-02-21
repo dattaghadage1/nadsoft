@@ -1,0 +1,23 @@
+
+
+/* .......................................funnels....................... */
+.funnels{
+    background-color: rgb(203, 236, 225);
+    padding: 50px;
+}
+
+ul li span{
+    margin-left: 12px;
+    text-align: start;
+}
+ul li{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.8rem;
+}
+.step{
+    background-color: rgb(203, 236, 225);
+    margin-top: 100px;
+    height: auto;
+    padding: 50px;
+}
